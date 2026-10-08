@@ -1,1 +1,1 @@
-## La area a trabajar es el sector 03 , code core
+## sector 03 , code core
